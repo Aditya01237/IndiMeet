@@ -1,4 +1,4 @@
-# indimeet
+# Indimeet
 
 A new Flutter project.
 
